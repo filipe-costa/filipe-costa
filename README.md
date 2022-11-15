@@ -4,7 +4,7 @@
 
 - :man_technologist: I work at [Bally's Interactive](https://careers.ballysinteractive.com/) with a diversity of technologies, especially **React**, **Redux**, **PixiJS**, **SpringBoot** / **Quarkus**, **Kafka**, **MySQL**, **Docker** and **Kubernetes**.
 
-- :building_construction: I'm currently building a prototype of a Mobile Application in the context of Distributed Systems for my Final Year Project at Birkbeck, University of London.
+- :building_construction: I'm currently building a near real-time prototype of a **Mobile Chat Application** in the context of **Distributed Systems** for my Final Year Project at Birkbeck, University of London.
 
 <!--
 - :building_construction: I’m building a **Tic-Tac-Toe** game using [pixijs](https://github.com/pixijs/pixijs), [redux](https://github.com/reduxjs/redux) and [tsyringe](https://github.com/microsoft/tsyringe).
