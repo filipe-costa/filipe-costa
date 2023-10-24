@@ -2,7 +2,7 @@
 
 **I'm Filipe, FrontEnd Developer from Lisbon, Portugal. Currently living in the United Kingdom.**
 
-- :man_technologist: I work at [Bally's Interactive](https://careers.ballysinteractive.com/) with a diversity of technologies, especially **React**, **Redux**, **SpringBoot** / **Quarkus**, **Kafka**, **MySQL**, **Docker** and **Kubernetes**.
+- :man_technologist: I work at [Caesars Sportsbook & Casino]([https://careers.ballysinteractive.com/](https://www.caesars.com/sportsbook-and-casino)) with a diversity of technologies, especially **React**, **Redux**, **SpringBoot** / **Quarkus**, **Kafka**, **MySQL**, **Docker** and **Kubernetes**.
 
 - :building_construction: I'm currently building a prototype of a near real-time **Mobile Chat Application** in the context of **Distributed Systems** for my Final Year Project at Birkbeck, University of London.
 
