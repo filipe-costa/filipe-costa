@@ -2,9 +2,9 @@
 
 **I'm Filipe, FrontEnd Developer from Lisbon, Portugal. Currently living in the United Kingdom.**
 
-- :man_technologist: I work at [Caesars Sportsbook & Casino](https://www.caesars.com/sportsbook-and-casino) with a diversity of technologies, especially **React**, **Redux**, **Apollo Client/Server**, **GraphQL**, **MySQL**, **Docker** and **Kubernetes**.
+- :man_technologist: I work at [Caesars Sportsbook & Casino](https://www.caesars.com/sportsbook-and-casino) with a diversity of technologies, especially **React**, **Redux**, **Apollo Client/Server**, **GraphQL**, **MySQL**, **Docker** and **Kubernetes**. (2023 - current)
 
-- :pushpin: Built a prototype of a near real-time **Mobile Chat Application** in the context of **Distributed Systems** for my Final Year Project at Birkbeck, University of London.
+- :pushpin: Built a prototype of a near real-time **Mobile Chat Application** in the context of **Distributed Systems** for my Final Year Project at Birkbeck, University of London. (2023)
 
 - :shipit: My favourite tech stack:
   * **TypeScript**
