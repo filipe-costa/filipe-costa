@@ -20,6 +20,7 @@
   * [LinkedIn](https://www.linkedin.com/in/filipecosta-dev/)
 
 ### My latest readings:
+* [Artemis](https://www.waterstones.com/book/artemis/andy-weir/9781785030253)
 * [Project Hail Mary](https://www.waterstones.com/book/project-hail-mary/andy-weir/9781529157468)
 
 <!--
