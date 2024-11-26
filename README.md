@@ -20,6 +20,8 @@
   * [LinkedIn](https://www.linkedin.com/in/filipecosta-dev/)
 
 ### My latest readings:
+* [Our House](https://www.waterstones.com/book/our-house/louise-candlish/9781471168062)
+* [Tokyo Express](https://www.waterstones.com/book/tokyo-express/seicho-matsumoto/jesse-kirkwood/9780241439081)
 * [Artemis](https://www.waterstones.com/book/artemis/andy-weir/9781785030253)
 * [Project Hail Mary](https://www.waterstones.com/book/project-hail-mary/andy-weir/9781529157468)
 
