@@ -16,7 +16,7 @@
   * **Jest**
 
 - :mailbox: How to reach me:
-  * [Personal website (under construction)](https://filipec.dev/)
+  * [Personal Website](https://filipec.dev/)
   * [LinkedIn](https://www.linkedin.com/in/filipecosta-dev/)
 
 ### My latest readings:
