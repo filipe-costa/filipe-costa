@@ -1,17 +1,11 @@
 ## Hey!👋
 
-**I'm Filipe, FrontEnd Developer from Lisbon, Portugal. Currently living in the United Kingdom.**
+**I'm Filipe, Software Engineer from Lisbon, Portugal. Working remotely in the United Kingdom.**
 
-- :man_technologist: I am currently looking for new roles
+- :man_technologist: Coding...
 
 - :pushpin: Built a prototype of a near real-time **Mobile Chat Application** in the context of **Distributed Systems** for my Final Year Project at Birkbeck, University of London. (2023)
 
-- :shipit: Tech stack:
-  * **TypeScript**
-  * **Reactjs**
-  * **GraphQL**
-  * **Nodejs**
-  * **Many others...**
 
 - :mailbox: How to reach me:
   * [Personal Website](https://filipec.dev/)
